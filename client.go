@@ -3,7 +3,7 @@ package tumblrclient
 import (
 	"errors"
 	"github.com/dghubble/oauth1"
-	"github.com/tumblr/tumblr.go"
+	"github.com/followercounter/tumblr.go"
 	"golang.org/x/net/context"
 	"io/ioutil"
 	"net/http"
